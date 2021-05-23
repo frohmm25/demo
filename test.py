@@ -1,5 +1,5 @@
 def gittest():
-  print('hello world')
+  return('hello world')
  
 if __name__ == '__main__':
-  return gittest
+  print(gittest())
